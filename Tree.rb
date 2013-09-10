@@ -7,16 +7,19 @@ class Tree
   def initialize
     @tree_root = Hash.new
     @branch = {}
-
-      IO.foreach(DICTIONARY) do |f|
-        self.push_onto_tree(f.downcase)
-        puts f
-      end
     #else
     #  info("File /usr/share/dict/words was not found")
     #  exit!
     #end
   end
+
+  def plant_the_tree
+    IO.foreach(DICTIONARY) do |f|
+      self.push_onto_tree(f.downcase)
+      puts f
+    end
+  end
+
 
   def push_onto_tree(word_from_file)
     #need to implement recursive call to self (Tree class)
@@ -27,13 +30,15 @@ class Tree
       # should be able to make a call to self recursively
       if !self.branch.has_key?(character)
         self.branch[character] = Tree.new
-        info("Branching #{character}")
+        puts "Branching #{character}"
       end
       #
       branch = self.branch[character]  #Hooray figured out how to set the leaf
     end
     branch.word = word_from_file
   end
+
+
 
 
 
