@@ -1,16 +1,12 @@
-require 'Tree'
+require_relative 'Tree'
 
 
 begin
-  if File.exists?('/usr/share/dict/words')
-    planted_tree = Tree.new
 
-    while input != "quit" || input.empty?
-      puts ">"
-      input = $stdin.gets
-    end
-
+  if (@tree = Tree.new)
+    puts "tree created successfully"
   end
+
 rescue Interrupt
   info "You are exiting the spell checker"
   exit!

@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36b25cbd-5d70-4bb5-b990-f263690bd5a6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tree.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ol_speller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tree.rb" afterPath="$PROJECT_DIR$/Tree.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ol_speller.rb" afterPath="$PROJECT_DIR$/ol_speller.rb" />
     </list>
     <ignored path="ownlocal-sc.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="36b25cbd-5d70-4bb5-b990-f263690bd5a6" time="1378793479699" ignored="false" />
-    <file path="/Tree.rb" changelist="36b25cbd-5d70-4bb5-b990-f263690bd5a6" time="1378793507412" ignored="false" />
-    <file path="/ol_speller.rb" changelist="36b25cbd-5d70-4bb5-b990-f263690bd5a6" time="1378794371034" ignored="false" />
+    <file path="/Tree.rb" changelist="36b25cbd-5d70-4bb5-b990-f263690bd5a6" time="1378797784805" ignored="false" />
+    <file path="/ol_speller.rb" changelist="36b25cbd-5d70-4bb5-b990-f263690bd5a6" time="1378796142056" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,19 +29,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Tree.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Tree.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Tree.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="1" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0">
+            <state line="37" column="1" selection-start="1057" selection-end="1057" vertical-scroll-proportion="0.4298993">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ol_speller.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ol_speller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ol_speller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="49" selection-start="264" selection-end="264" vertical-scroll-proportion="0.1859024">
+            <state line="12" column="90" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -65,8 +65,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Tree.rb" />
         <option value="$PROJECT_DIR$/ol_speller.rb" />
+        <option value="$PROJECT_DIR$/Tree.rb" />
       </list>
     </option>
   </component>
@@ -292,16 +292,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tree.rb">
+    <entry file="file://$PROJECT_DIR$/ol_speller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="1" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0">
+        <state line="12" column="90" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ol_speller.rb">
+    <entry file="file://$PROJECT_DIR$/Tree.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="49" selection-start="264" selection-end="264" vertical-scroll-proportion="0.1859024">
+        <state line="37" column="1" selection-start="1057" selection-end="1057" vertical-scroll-proportion="0.4298993">
           <folding />
         </state>
       </provider>
