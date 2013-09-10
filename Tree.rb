@@ -16,7 +16,7 @@ class Tree
   def plant_the_tree
     IO.foreach(DICTIONARY) do |f|
       self.push_onto_tree(f.downcase)
-      puts f
+      #puts f
     end
   end
 
@@ -38,6 +38,17 @@ class Tree
     branch.word = word_from_file
   end
 
+  def check_word(user_word)
+    user_word.downcase!
+    puts user_word
+  end
+
+
+  private
+
+  def traverse_tree(word)
+    # implement Damerau-Levenshtein algorithm
+  end
 
 
 
