@@ -1,30 +1,6 @@
-#require_relative 'Tree'
 require_relative "Tree"
 require_relative "tree_node"
 
-
-
-
-
-#def flip_vowel(word)
-#  s = word
-#  c = s.rindex(/aeiouy/)
-#  unless c.nil? || c == 0
-#    s[c-1] = "e"
-#  end
-#  s
-#end
-#
-#def mess_with(word)
-#  case rand(2)
-#  when 0
-#    capitalize_repeat(word)
-#  when 1
-#    flip_vowel(word)
-#  else
-#    puts "n error has occurred"
-#  end
-#end
 
 begin
   dictionary = Tree.new

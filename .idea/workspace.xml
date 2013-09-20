@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36b25cbd-5d70-4bb5-b990-f263690bd5a6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tree_node.rb" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/current_place.rb" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tree.rb" afterPath="$PROJECT_DIR$/Tree.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/incorrect_spellings_generator.rb" afterPath="$PROJECT_DIR$/incorrect_spellings_generator.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ol_speller.rb" afterPath="$PROJECT_DIR$/ol_speller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ownlocal-sc.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -76,7 +71,7 @@
       <file leaf-file-name="incorrect_spellings_generator.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/incorrect_spellings_generator.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="41" selection-start="449" selection-end="449" vertical-scroll-proportion="0.3601859">
+            <state line="1" column="0" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0116189">
               <folding />
             </state>
           </provider>
@@ -422,7 +417,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/incorrect_spellings_generator.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="41" selection-start="449" selection-end="449" vertical-scroll-proportion="0.3601859">
+        <state line="1" column="0" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0116189">
           <folding />
         </state>
       </provider>
