@@ -4,9 +4,6 @@ require_relative 'tree_node'
 begin
   puts "Reading in dictionary..."
   dictionary = Tree.new
-  #File.readlines('/usr/share/dict/words').each do |word|
-  #  dictionary << word
-  #end
 
   if dictionary.build_the_tree
     puts "Dictionary hashed and loaded successfully"
