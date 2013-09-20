@@ -2,22 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36b25cbd-5d70-4bb5-b990-f263690bd5a6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current_place.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/incorrect_spellings_generator.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tree_node.rb" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/current_place.rb" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tree.rb" afterPath="$PROJECT_DIR$/Tree.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/incorrect_spellings_generator.rb" afterPath="$PROJECT_DIR$/incorrect_spellings_generator.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ol_speller.rb" afterPath="$PROJECT_DIR$/ol_speller.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ownlocal-sc.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="36b25cbd-5d70-4bb5-b990-f263690bd5a6" time="1378920271460" ignored="false" />
-    <file path="/Tree.rb" changelist="36b25cbd-5d70-4bb5-b990-f263690bd5a6" time="1378934255924" ignored="false" />
-    <file path="/ol_speller.rb" changelist="36b25cbd-5d70-4bb5-b990-f263690bd5a6" time="1378932121854" ignored="false" />
+    <file path="/Dummy.txt" changelist="36b25cbd-5d70-4bb5-b990-f263690bd5a6" time="1379584890546" ignored="false" />
+    <file path="/Tree.rb" changelist="36b25cbd-5d70-4bb5-b990-f263690bd5a6" time="1379646028679" ignored="false" />
+    <file path="/ol_speller.rb" changelist="36b25cbd-5d70-4bb5-b990-f263690bd5a6" time="1379705346320" ignored="false" />
     <file path="$PROJECT_DIR$/../spellcheck-master/spellcheck.rb" changelist="36b25cbd-5d70-4bb5-b990-f263690bd5a6" time="1378927627482" ignored="false" />
-    <file path="/spellcheck.rb" changelist="36b25cbd-5d70-4bb5-b990-f263690bd5a6" time="1378927827019" ignored="false" />
+    <file path="/spellcheck.rb" changelist="36b25cbd-5d70-4bb5-b990-f263690bd5a6" time="1379703626046" ignored="false" />
     <file path="$PROJECT_DIR$/../spellcheck.rb" changelist="36b25cbd-5d70-4bb5-b990-f263690bd5a6" time="1378927827019" ignored="false" />
     <file path="/current_place.rb" changelist="36b25cbd-5d70-4bb5-b990-f263690bd5a6" time="1378928831060" ignored="false" />
-    <file path="/incorrect_spellings_generator.rb" changelist="36b25cbd-5d70-4bb5-b990-f263690bd5a6" time="1378940512389" ignored="false" />
+    <file path="/incorrect_spellings_generator.rb" changelist="36b25cbd-5d70-4bb5-b990-f263690bd5a6" time="1379707584222" ignored="false" />
+    <file path="/word_node.rb" changelist="36b25cbd-5d70-4bb5-b990-f263690bd5a6" time="1379705175059" ignored="false" />
+    <file path="$USER_HOME$/code-exercise-spellcheck-master/word_node.rb" changelist="36b25cbd-5d70-4bb5-b990-f263690bd5a6" time="1379705200831" ignored="false" />
+    <file path="$USER_HOME$/code-exercise-spellcheck-master/spellcheck.rb" changelist="36b25cbd-5d70-4bb5-b990-f263690bd5a6" time="1379703626046" ignored="false" />
+    <file path="$USER_HOME$/code-exercise-spellcheck-master/word_list.rb" changelist="36b25cbd-5d70-4bb5-b990-f263690bd5a6" time="1379703859500" ignored="false" />
+    <file path="/word_list.rb" changelist="36b25cbd-5d70-4bb5-b990-f263690bd5a6" time="1379703858793" ignored="false" />
+    <file path="/tree_node.rb" changelist="36b25cbd-5d70-4bb5-b990-f263690bd5a6" time="1379646713339" ignored="false" />
+    <file path="/a.dummy" changelist="36b25cbd-5d70-4bb5-b990-f263690bd5a6" time="1379662607460" ignored="false" />
+    <file path="$USER_HOME$/code-exercise-spellcheck-master/test.rb" changelist="36b25cbd-5d70-4bb5-b990-f263690bd5a6" time="1379707129046" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,25 +49,16 @@
       <file leaf-file-name="Tree.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tree.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="34" selection-end="70" vertical-scroll-proportion="0.0">
+            <state line="9" column="28" selection-start="211" selection-end="211" vertical-scroll-proportion="-5.1923075">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="incorrect_spellings_generator.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/incorrect_spellings_generator.rb">
+      <file leaf-file-name="tree_node.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tree_node.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="48" selection-start="820" selection-end="820" vertical-scroll-proportion="0.60512024">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="current_place.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/current_place.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="25" selection-start="131" selection-end="131" vertical-scroll-proportion="0.0">
+            <state line="7" column="37" selection-start="149" selection-end="149" vertical-scroll-proportion="-1.9090909">
               <folding />
             </state>
           </provider>
@@ -67,7 +67,16 @@
       <file leaf-file-name="ol_speller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ol_speller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="88" selection-start="663" selection-end="663" vertical-scroll-proportion="0.0">
+            <state line="25" column="105" selection-start="559" selection-end="559" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="incorrect_spellings_generator.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/incorrect_spellings_generator.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="41" selection-start="449" selection-end="449" vertical-scroll-proportion="0.3601859">
               <folding />
             </state>
           </provider>
@@ -92,8 +101,9 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/current_place.rb" />
-        <option value="$PROJECT_DIR$/ol_speller.rb" />
+        <option value="$PROJECT_DIR$/tree_node.rb" />
         <option value="$PROJECT_DIR$/Tree.rb" />
+        <option value="$PROJECT_DIR$/ol_speller.rb" />
         <option value="$PROJECT_DIR$/incorrect_spellings_generator.rb" />
       </list>
     </option>
@@ -255,9 +265,10 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.42139384" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2706645" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -266,7 +277,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -342,6 +352,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ol_speller.rb">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/incorrect_spellings_generator.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="48" selection-start="820" selection-end="820" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ol_speller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="88" selection-start="663" selection-end="663" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ol_speller.rb">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="7" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0">
           <folding />
         </state>
@@ -356,28 +401,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Tree.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="34" selection-end="70" vertical-scroll-proportion="0.0">
+        <state line="9" column="28" selection-start="211" selection-end="211" vertical-scroll-proportion="-5.1923075">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/current_place.rb">
+    <entry file="file://$PROJECT_DIR$/tree_node.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="25" selection-start="131" selection-end="131" vertical-scroll-proportion="0.0">
+        <state line="7" column="37" selection-start="149" selection-end="149" vertical-scroll-proportion="-1.9090909">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ol_speller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="88" selection-start="663" selection-end="663" vertical-scroll-proportion="0.0">
+        <state line="25" column="105" selection-start="559" selection-end="559" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/incorrect_spellings_generator.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="48" selection-start="820" selection-end="820" vertical-scroll-proportion="0.60512024">
+        <state line="31" column="41" selection-start="449" selection-end="449" vertical-scroll-proportion="0.3601859">
           <folding />
         </state>
       </provider>

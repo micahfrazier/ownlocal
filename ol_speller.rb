@@ -1,29 +1,24 @@
 require_relative 'Tree'
-require_relative 'current_place'
-
-LONGEST_WORD = 25 #longest word in the dictionary
+require_relative 'tree_node'
 
 begin
-place = CurrentPlace.new
-tree = Tree.new
-#forced to move call to plant Tree structure after initializing to fix multiple open file error
-if tree.plant_the_tree
-  puts "Dictionary hashed and loaded successfully"
-else
-  puts "Error: dictionary not hashed successfully"
-end
+  puts "Reading in dictionary..."
+  dictionary = Tree.new
+  #File.readlines('/usr/share/dict/words').each do |word|
+  #  dictionary << word
+  #end
 
-
-loop do
-  print "> "
-  user_input = $stdin.gets.strip
-  corrected_word = tree.traverse(user_input, LONGEST_WORD, place)
-  unless corrected_word.nil?
-    puts corrected_word
+  if dictionary.build_the_tree
+    puts "Dictionary hashed and loaded successfully"
   else
-    puts 'NO SUGGESTION'
+    puts "Error: dictionary not hashed successfully"
   end
-end
+
+  loop do
+    $stdout.write "> "
+    user_input = $stdin.gets.strip.downcase
+    puts dictionary.correct_word(user_input)
+  end
 
 rescue Interrupt
   puts "You are exiting the spell checker"
