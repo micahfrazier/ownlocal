@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36b25cbd-5d70-4bb5-b990-f263690bd5a6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ol_speller.rb" afterPath="$PROJECT_DIR$/ol_speller.rb" />
-    </list>
+    <list default="true" id="36b25cbd-5d70-4bb5-b990-f263690bd5a6" name="Default" comment="" />
     <ignored path="ownlocal-sc.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="36b25cbd-5d70-4bb5-b990-f263690bd5a6" time="1379584890546" ignored="false" />
@@ -59,19 +57,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ol_speller.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ol_speller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ol_speller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="23" selection-start="117" selection-end="117" vertical-scroll-proportion="0.0580945">
+            <state line="22" column="64" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="incorrect_spellings_generator.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="incorrect_spellings_generator.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/incorrect_spellings_generator.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="73" selection-start="543" selection-end="543" vertical-scroll-proportion="0.0">
+            <state line="10" column="64" selection-start="199" selection-end="199" vertical-scroll-proportion="0.116189">
               <folding />
             </state>
           </provider>
@@ -394,13 +392,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/incorrect_spellings_generator.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="73" selection-start="543" selection-end="543" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tree.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="28" selection-start="211" selection-end="211" vertical-scroll-proportion="-5.1923075">
@@ -417,7 +408,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ol_speller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="23" selection-start="117" selection-end="117" vertical-scroll-proportion="0.0580945">
+        <state line="22" column="64" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/incorrect_spellings_generator.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="64" selection-start="199" selection-end="199" vertical-scroll-proportion="0.116189">
           <folding />
         </state>
       </provider>
