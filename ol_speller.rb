@@ -2,7 +2,7 @@ require_relative 'Tree'
 require_relative 'tree_node'
 
 begin
-  puts "Reading in dictionary..."
+  puts "Building the dictionary."
   dictionary = Tree.new
 
   if dictionary.build_the_tree

@@ -10,8 +10,6 @@ begin
   IO.foreach(DICTIONARY) do |w|
     f = w.chomp.strip.downcase
     incorrect_words << f
-    #last = incorrect_words.size - 1
-    #puts incorrect_words[last]
   end
 
   errors = {}
